@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Jinghui Yuan"
-  avatar           : "jinghui.jpg"
+  avatar           : "/images/jinghui.jpg"
   bio              : "Postdoctoral Research Scholar at UCF SST"
   location         : "Orlando, Florida"
   employer         :
