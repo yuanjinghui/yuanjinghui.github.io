@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Research Interests and Projects"
+  - title: "Research Interests"
     url: /interests/
 
-  - title: "Publications and Presentations"
+  - title: "Publications"
     url: /publications/
 
   - title: "Research Experience"
