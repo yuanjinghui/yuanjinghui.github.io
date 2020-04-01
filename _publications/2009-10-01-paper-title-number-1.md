@@ -6,7 +6,7 @@ Journal Publications
 1. N. Formosa, M. Quddus, S. Ison, M. Abdel-Aty, J. Yuan, 2020. “[Predicting real-time traffic conflicts using deep learning]”. Accident Analysis & Prevention, 136, 105429.
 1. P. Li, M. Abdel-Aty, J. Yuan, 2020. “[Real-Time Crash Risk Prediction on Arterials Based on LSTM-CNN]”. Accident Analysis & Prevention, 135, 105371.
 1. L. Xing, J. He, Y. Li, Y. Wu, J. Yuan, X. Gu, 2019. “[Comparison of different models for evaluating vehicle collision risks at upstream diverging area of toll plaza]”. Accident Analysis & Prevention, 135, 105343.
-1. Q. Cai, M. Aty, Y. Sun, J. Lee, J. Yuan, 2019. “[Applying Deep Learning and High-Resolution Data to Predict Crashes for Transportation Safety Planning]”. Transportation Research Part A: Policy and Practice, 127, 71-85.
+1. Q. Cai, M. Aty, Y. Sun, J. Lee, J. Yuan, 2019. “[Applying a deep learning approach for transportation safety planning by using high-resolution transportation and land use data]”. Transportation Research Part A: Policy and Practice, 127, 71-85.
 1. J. Yuan, M. Aty, Y. Gong, Q. Cai, 2019. “[Real-Time Crash Risk Prediction Using Long Short-Term Memory Recurrent Neural Network]”. Transportation Research Record: Journal of the Transportation Research Board, 2673(4), 314-326.
 1. J. Yuan, M. Aty, Q. Cai, J. Lee, 2019. “[Investigating Drivers' Mandatory Lane Change Behavior on the Weaving Section of Freeway with Managed Lane: A Driving Simulator Study]”. Transportation Research Part F: Traffic Psychology and Behavior, 62, 11-32.
 1. X. Gu, M. Aty, Q. Xiang, Q. Cai, J. Yuan, 2019. “[Utilizing UAV Video Data for In-depth Analysis of Drivers' Crash Risk at Interchange Merging Areas]”. Accident Analysis & Prevention, 123, 159-169.
@@ -24,4 +24,19 @@ Journal Publications
 
 [Prediction of Pedestrian Crossing Intentions at Intersections Based on Long Short-Term Memory Recurrent Neural Network]: https://journals.sagepub.com/doi/full/10.1177/0361198120912422
 [In-depth approach for identifying crash causation patterns and its implications for pedestrian crash prevention]: https://www.sciencedirect.com/science/article/pii/S002243752030027X
+[Analyzing Traffic Violation Behavior at Urban Intersections: A Spatial-Temporal Kernel Density Estimation Approach Using Automated Enforcement System Data]: 
+[Predicting real-time traffic conflicts using deep learning]: https://www.sciencedirect.com/science/article/pii/S000145751930973X
+[Real-Time Crash Risk Prediction on Arterials Based on LSTM-CNN]: https://www.sciencedirect.com/science/article/pii/S0001457519311108 
+[Comparison of different models for evaluating vehicle collision risks at upstream diverging area of toll plaza]: https://www.sciencedirect.com/science/article/pii/S0001457519307584
+[Applying a deep learning approach for transportation safety planning by using high-resolution transportation and land use data]: https://www.sciencedirect.com/science/article/pii/S0965856418310073
+[Real-Time Crash Risk Prediction Using Long Short-Term Memory Recurrent Neural Network]: https://journals.sagepub.com/doi/full/10.1177/0361198119840611
+[Investigating Drivers' Mandatory Lane Change Behavior on the Weaving Section of Freeway with Managed Lane: A Driving Simulator Study]: https://www.sciencedirect.com/science/article/pii/S1369847818303875
+[Utilizing UAV Video Data for In-depth Analysis of Drivers' Crash Risk at Interchange Merging Areas]: https://www.sciencedirect.com/science/article/pii/S0001457518309631
+[Utilizing Bluetooth And Adaptive Signal Control Data for Real-Time Safety Analysis on Urban Arterials]: https://www.sciencedirect.com/science/article/pii/S0968090X18314669
+[Approach-Level Real-Time Crash Risk Analysis for Signalized Intersections]: https://www.sciencedirect.com/science/article/pii/S000145751830349X
+[Safety Impact of Weaving Distance on Freeway Facilities with Managed Lanes Using Both Microscopic Traffic and Driving Simulations]: https://journals.sagepub.com/doi/full/10.1177/0361198118780884
+[Investigating the safety impact of roadway network features of suburban arterials in Shanghai]: https://www.sciencedirect.com/science/article/pii/S0001457518300356
+[Safety Impacts Study of Roadway Network Features on Suburban Highways]: 
+[Modeling Research of Crash Types at Signalized Intersections Base on the Random Effect Model]: http://www.tjsafety.cn/bgAdmin/htmledit/uploadfile/20170103191339523.pdf
+
 
