@@ -3,7 +3,7 @@ title: "Investigating the safety impact of roadway network features of suburban 
 date: 2018-02-02
 venue: 'Accident Analysis and Prevention'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0001457518300356'
-citation: 'YWang, X., Yuan, J., Schultz, G.G. and Fang, S., 2018. Investigating the safety impact of roadway network features of suburban arterials in Shanghai. Accident Analysis & Prevention, 113, pp.137-148.'
+citation: 'Wang, X., Yuan, J., Schultz, G.G. and Fang, S., 2018. Investigating the safety impact of roadway network features of suburban arterials in Shanghai. Accident Analysis & Prevention, 113, pp.137-148.'
 ---
 
 Journal Publications

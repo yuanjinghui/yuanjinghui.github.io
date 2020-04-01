@@ -4,7 +4,7 @@ main:
     url: /interests/
 
   - title: "Publications"
-    url: /publications/
+    url: /publications/2009-10-01-paper-title-number-1.md
 
   - title: "Research Experience"
     url: /research/
