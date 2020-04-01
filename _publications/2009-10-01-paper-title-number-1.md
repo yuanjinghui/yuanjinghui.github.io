@@ -36,7 +36,7 @@ Journal Publications
 [Approach-Level Real-Time Crash Risk Analysis for Signalized Intersections]: https://www.sciencedirect.com/science/article/pii/S000145751830349X
 [Safety Impact of Weaving Distance on Freeway Facilities with Managed Lanes Using Both Microscopic Traffic and Driving Simulations]: https://journals.sagepub.com/doi/full/10.1177/0361198118780884
 [Investigating the safety impact of roadway network features of suburban arterials in Shanghai]: https://www.sciencedirect.com/science/article/pii/S0001457518300356
-[Safety Impacts Study of Roadway Network Features on Suburban Highways]: 
+[Safety Impacts Study of Roadway Network Features on Suburban Highways]: http://zgglxb.qgyiz.com/CN/article/downloadArticleFile.do?attachType=PDF&id=2515
 [Modeling Research of Crash Types at Signalized Intersections Base on the Random Effect Model]: http://www.tjsafety.cn/bgAdmin/htmledit/uploadfile/20170103191339523.pdf
 
 
