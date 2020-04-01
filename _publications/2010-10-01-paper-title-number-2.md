@@ -1,4 +1,8 @@
 ---
+title: "Paper Title Number 3"
+collection: publications
+permalink: /publication/2010-10-01-paper-title-number-2
+
 1. S. Zhang, M. Aty, J. Yuan, P. Li, 2020. "[Prediction of Pedestrian Crossing Intentions at Intersections Based on Long Short-Term Memory Recurrent Neural Network]". Transportation Research Record (2020): 0361198120912422.
 1. L. Yue, M. Aty, Y. Wu, O. Zheng, J. Yuan*, 2020. “[In-depth approach for identifying crash causation patterns and its implications for pedestrian crash prevention]”. Journal of Safety Research, 73, 119-132.
 1. Y. Li, M. Aty, J. Yuan, Z. Cheng, J. Lu, 2020. “[Analyzing Traffic Violation Behavior at Urban Intersections: A Spatial-Temporal Kernel Density Estimation Approach Using Automated Enforcement System Data]”. Accident Analysis & Prevention. (accepted)
