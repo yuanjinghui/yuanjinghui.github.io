@@ -24,7 +24,7 @@ Journal Publications
 
 [Prediction of Pedestrian Crossing Intentions at Intersections Based on Long Short-Term Memory Recurrent Neural Network]: https://journals.sagepub.com/doi/full/10.1177/0361198120912422
 [In-depth approach for identifying crash causation patterns and its implications for pedestrian crash prevention]: https://www.sciencedirect.com/science/article/pii/S002243752030027X
-[Analyzing Traffic Violation Behavior at Urban Intersections: A Spatial-Temporal Kernel Density Estimation Approach Using Automated Enforcement System Data]: 
+[Analyzing Traffic Violation Behavior at Urban Intersections: A Spatial-Temporal Kernel Density Estimation Approach Using Automated Enforcement System Data]: https://www.journals.elsevier.com/accident-analysis-and-prevention
 [Predicting real-time traffic conflicts using deep learning]: https://www.sciencedirect.com/science/article/pii/S000145751930973X
 [Real-Time Crash Risk Prediction on Arterials Based on LSTM-CNN]: https://www.sciencedirect.com/science/article/pii/S0001457519311108 
 [Comparison of different models for evaluating vehicle collision risks at upstream diverging area of toll plaza]: https://www.sciencedirect.com/science/article/pii/S0001457519307584
