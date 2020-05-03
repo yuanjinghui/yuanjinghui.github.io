@@ -15,6 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+
 2020
 ======
 1. L. Xing, J. He, M. Abdel-Aty, Y. Wu, **J. Yuan**, 2020. "[Time-varying analysis of traffic conflicts at the upstream approach of toll plaza]". Accident Analysis & Prevention 141 (2020): 105539.
@@ -23,10 +24,10 @@ author_profile: true
 1. Y. Li, M. Abdel-Aty, **J. Yuan**, Z. Cheng, J. Lu, 2020. “[Analyzing Traffic Violation Behavior at Urban Intersections: A Spatial-Temporal Kernel Density Estimation Approach Using Automated Enforcement System Data]”. Accident Analysis & Prevention 141 (2020): 105509.
 1. N. Formosa, M. Quddus, S. Ison, M. Abdel-Aty, **J. Yuan**, 2020. “[Predicting real-time traffic conflicts using deep learning]”. Accident Analysis & Prevention, 136, 105429.
 1. P. Li, M. Abdel-Aty, **J. Yuan**, 2020. “[Real-Time Crash Risk Prediction on Arterials Based on LSTM-CNN]”. Accident Analysis & Prevention, 135, 105371.
+1. L. Xing, J. He, Y. Li, Y. Wu, **J. Yuan**, X. Gu, 2019. “[Comparison of different models for evaluating vehicle collision risks at upstream diverging area of toll plaza]”. Accident Analysis & Prevention, 135, 105343.
 
 2019
 ======
-1. L. Xing, J. He, Y. Li, Y. Wu, **J. Yuan**, X. Gu, 2019. “[Comparison of different models for evaluating vehicle collision risks at upstream diverging area of toll plaza]”. Accident Analysis & Prevention, 135, 105343.
 1. Q. Cai, M. Abdel-Aty, Y. Sun, J. Lee, **J. Yuan**, 2019. “[Applying a deep learning approach for transportation safety planning by using high-resolution transportation and land use data]”. Transportation Research Part A: Policy and Practice, 127, 71-85.
 1. **J. Yuan**, M. Abdel-Aty, Y. Gong, Q. Cai, 2019. “[Real-Time Crash Risk Prediction Using Long Short-Term Memory Recurrent Neural Network]”. Transportation Research Record: Journal of the Transportation Research Board, 2673(4), 314-326.
 1. **J. Yuan**, M. Abdel-Aty, Q. Cai, J. Lee, 2019. “[Investigating Drivers' Mandatory Lane Change Behavior on the Weaving Section of Freeway with Managed Lane: A Driving Simulator Study]”. Transportation Research Part F: Traffic Psychology and Behavior, 62, 11-32.
