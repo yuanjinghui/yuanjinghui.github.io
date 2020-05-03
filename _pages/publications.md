@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-##2020
+##2020##
 1. L. Xing, J. He, M. Abdel-Aty, Y. Wu, **J. Yuan**, 2020. "[Time-varying analysis of traffic conflicts at the upstream approach of toll plaza]". Accident Analysis & Prevention 141 (2020): 105539.
 1. S. Zhang, M. Abdel-Aty, **J. Yuan**, P. Li, 2020. "[Prediction of Pedestrian Crossing Intentions at Intersections Based on Long Short-Term Memory Recurrent Neural Network]". Transportation Research Record (2020): 0361198120912422.
 1. L. Yue, M. Abdel-Aty, Y. Wu, O. Zheng, **J. Yuan***, 2020. “[In-depth approach for identifying crash causation patterns and its implications for pedestrian crash prevention]”. Journal of Safety Research, 73, 119-132.
