@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Welcome to Jinghui Yuan’s homepage"
+excerpt: "Welcome to Jinghui Yuan’s homepage"
 author_profile: true
 redirect_from: 
   - /about/
