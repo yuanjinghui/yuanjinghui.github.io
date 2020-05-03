@@ -10,7 +10,7 @@ main:
     url: /research/
 
   - title: "Education"
-    url: /education/
+    url: /markdown/
     
   - title: "Awards"
     url: /honors/
