@@ -1,10 +1,13 @@
 # main links links
 main:
-  - title: "Research Experience"
-    url: /research/
+  - title: "Research Interests"
+    url: /interests/
 
   - title: "Publications"
     url: /publications/
+
+  - title: "Research Experience"
+    url: /research/
 
   - title: "Education"
     url: /education/
