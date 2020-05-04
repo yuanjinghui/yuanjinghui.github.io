@@ -68,6 +68,7 @@ author_profile: true
 
    * **J. Yuan**, M. Abdel-Aty, Q. Cai, J. Lee, 2019. “[Investigating Drivers' Mandatory Lane Change Behavior on the Weaving Section of Freeway with Managed Lane: A Driving Simulator Study]”. Transportation Research Part F: Traffic Psychology and Behavior, 62, 11-32.
    * Q. Cai, M. Saad, M. Abdel-Aty, **J. Yuan**, J. Lee, 2018. “[Safety Impact of Weaving Distance on Freeway Facilities with Managed Lanes Using Both Microscopic Traffic and Driving Simulations]”. Transportation Research Record: Journal of the Transportation Research Board, 2672(39), 130-141.
+   * Y. Li, M. Abdel-Aty, **J. Yuan**, Z. Cheng, J. Lu, 2020. “[Analyzing Traffic Violation Behavior at Urban Intersections: A Spatial-Temporal Kernel Density Estimation Approach Using Automated Enforcement System Data]”. Accident Analysis & Prevention 141 (2020): 105509.
 
    *Project Report*
    
