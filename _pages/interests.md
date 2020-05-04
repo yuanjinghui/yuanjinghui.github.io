@@ -47,11 +47,11 @@ author_profile: true
 **3. Crash Analysis and Modeling**
 
    *Publications*
-
+   
+   * L. Yue, M. Abdel-Aty, Y. Wu, O. Zheng, **J. Yuan***, 2020. “[In-depth approach for identifying crash causation patterns and its implications for pedestrian crash prevention]”. Journal of Safety Research, 73, 119-132.
    * X. Wang, **J. Yuan**, G. Schultz, S. Fang, 2018. “[Investigating the safety impact of roadway network features of suburban arterials in Shanghai]”. Accident Analysis & Prevention, 113, 137-148.
    * X. Wang, **J. Yuan**, 2017. “[Safety Impacts Study of Roadway Network Features on Suburban Highways]”. China Journal of Highway and Transport, 30 (4), 106-114. (In Chinese, Second Prize for Outstanding Paper Award, China Journal of Highway and Transport)
    * X. Wang, **J. Yuan**, X. Yang, 2016. “[Modeling Research of Crash Types at Signalized Intersections Base on the Random Effect Model]”. Journal of Tongji University (Natural Science), 44 (01): 81-86. (In Chinese, FRONTRUNNER 5000 Top Articles in Outstanding S&T Journals of China)
-   * L. Yue, M. Abdel-Aty, Y. Wu, O. Zheng, **J. Yuan***, 2020. “[In-depth approach for identifying crash causation patterns and its implications for pedestrian crash prevention]”. Journal of Safety Research, 73, 119-132.
 
 **4. Video Based Traffic Safety Analysis**
 
