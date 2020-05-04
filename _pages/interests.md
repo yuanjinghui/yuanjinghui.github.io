@@ -57,7 +57,7 @@ author_profile: true
 
    *Publications*
 
-   * J. Yuan, M. Abdel-Aty, O. Zheng, Y. Wu*, C. Yuan, 2020. "Modeling Vehicle-Pedestrian Conflicts based on Large-Scale CCTV Video Data". (Working paper)
+   * **J. Yuan**, M. Abdel-Aty, O. Zheng, Y. Wu*, C. Yuan, 2020. "Modeling Vehicle-Pedestrian Conflicts based on Large-Scale CCTV Video Data". (Working paper)
    * L. Xing, J. He, M. Abdel-Aty, Y. Wu, **J. Yuan**, 2020. "[Time-varying analysis of traffic conflicts at the upstream approach of toll plaza]". Accident Analysis & Prevention 141 (2020): 105539.
    * L. Xing, J. He, Y. Li, Y. Wu, **J. Yuan**, X. Gu, 2019. “[Comparison of different models for evaluating vehicle collision risks at upstream diverging area of toll plaza]”. Accident Analysis & Prevention, 135, 105343.
    * X. Gu, M. Abdel-Aty, Q. Xiang, Q. Cai, **J. Yuan**, 2019. “[Utilizing UAV Video Data for In-depth Analysis of Drivers' Crash Risk at Interchange Merging Areas]”. Accident Analysis & Prevention, 123, 159-169.
