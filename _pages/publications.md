@@ -18,6 +18,7 @@ author_profile: true
 
 2020
 ======
+1. **J. Yuan**, M. Abdel-Aty, L. Yue, Q. Cai, 2020. “Modeling Real-Time Cycle-Level Crash Risk at Signalized Intersections Based on High-Resolution Event-Based Data”. IEEE Transaction on Intelligent Transportation Systems. (Accepted)
 1. L. Xing, J. He, M. Abdel-Aty, Y. Wu, **J. Yuan**, 2020. "[Time-varying analysis of traffic conflicts at the upstream approach of toll plaza]". Accident Analysis & Prevention 141 (2020): 105539.
 1. S. Zhang, M. Abdel-Aty, **J. Yuan**, P. Li, 2020. "[Prediction of Pedestrian Crossing Intentions at Intersections Based on Long Short-Term Memory Recurrent Neural Network]". Transportation Research Record (2020): 0361198120912422.
 1. L. Yue, M. Abdel-Aty, Y. Wu, O. Zheng, **J. Yuan***, 2020. “[In-depth approach for identifying crash causation patterns and its implications for pedestrian crash prevention]”. Journal of Safety Research, 73, 119-132.
