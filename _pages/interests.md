@@ -28,7 +28,7 @@ author_profile: true
    *Awards*
    
    * [Prince Michael International Road Safety Awards](http://www.roadsafetyawards.com/universityofcentralflorida), HRH Prince Michael of Kent, GCVO, Sep. 2019 (Team Award, Major Contributor)
-   * [Stage III Winner in the USDOT's Solving for Safety Visualization Challenge](https://www.transportation.gov/solve4safety/solve4safetysubmissions), U.S. Department of Transportation, Nov. 2019 (Team Award, Major Contributor)
+   * [Stage III Winner in the USDOT's Solving for Safety Visualization Challenge](https://www.transportation.gov/solve4safety/solve4safetysubmissions), U.S. Department of Transportation, Nov. 2019 (Team Award, Major Contributor) [Video Demonstration](https://www.youtube.com/watch?v=ID5PpVTFJ5o&feature=youtu.be)
    
 **2. Intelligent Transportation System, Big Data, and Deep Learning**
 
