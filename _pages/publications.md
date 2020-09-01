@@ -18,7 +18,11 @@ author_profile: true
 
 2020
 ======
-1. **J. Yuan**, M. Abdel-Aty, L. Yue, Q. Cai, 2020. “Modeling Real-Time Cycle-Level Crash Risk at Signalized Intersections Based on High-Resolution Event-Based Data”. IEEE Transaction on Intelligent Transportation Systems. (Accepted)
+1. Gong, Y., Abdel-Aty, M., **Yuan, J**. and Cai, Q., 2020. "[Multi-objective reinforcement learning approach for improving safety at intersections with adaptive traffic signal control]". Accident Analysis & Prevention, 144, p.105655.
+1. Yue, L., Abdel-Aty, M., Wu, Y., **Yuan, J**. and Morris, M., 2020. "[Influence of pedestrian-to-vehicle technology on drivers’ response and safety benefits considering pre-crash conditions]". Transportation Research Part F: Traffic Psychology and Behaviour, 73, pp.50-65.
+1. L. Yue, M. Abdel-Aty, Y. Wu, **J. Yuan**, 2020. “[An Augmentation Function for Active Pedestrian Safety System Based on Crash Risk Evaluation]”. IEEE Transaction on Vehicular Technology. 
+1. Cai, Q., Abdel-Aty, M., **Yuan, J.**, Lee, J. and Wu, Y., 2020. "[Real-time crash prediction on expressways using deep generative models]". Transportation research part C: emerging technologies, 117, p.102697.
+1. **J. Yuan**, M. Abdel-Aty, L. Yue, Q. Cai, 2020. “[Modeling Real-Time Cycle-Level Crash Risk at Signalized Intersections Based on High-Resolution Event-Based Data]”. IEEE Transaction on Intelligent Transportation Systems.
 1. L. Xing, J. He, M. Abdel-Aty, Y. Wu, **J. Yuan**, 2020. "[Time-varying analysis of traffic conflicts at the upstream approach of toll plaza]". Accident Analysis & Prevention 141 (2020): 105539.
 1. S. Zhang, M. Abdel-Aty, **J. Yuan**, P. Li, 2020. "[Prediction of Pedestrian Crossing Intentions at Intersections Based on Long Short-Term Memory Recurrent Neural Network]". Transportation Research Record (2020): 0361198120912422.
 1. L. Yue, M. Abdel-Aty, Y. Wu, O. Zheng, **J. Yuan***, 2020. “[In-depth approach for identifying crash causation patterns and its implications for pedestrian crash prevention]”. Journal of Safety Research, 73, 119-132.
@@ -70,4 +74,8 @@ author_profile: true
 [Investigating the safety impact of roadway network features of suburban arterials in Shanghai]: https://www.sciencedirect.com/science/article/pii/S0001457518300356
 [Safety Impacts Study of Roadway Network Features on Suburban Highways]: http://zgglxb.qgyiz.com/CN/article/downloadArticleFile.do?attachType=PDF&id=2515
 [Modeling Research of Crash Types at Signalized Intersections Base on the Random Effect Model]: http://www.tjsafety.cn/bgAdmin/htmledit/uploadfile/20170103191339523.pdf
-
+[Modeling Real-Time Cycle-Level Crash Risk at Signalized Intersections Based on High-Resolution Event-Based Data]: https://ieeexplore.ieee.org/abstract/document/9103256
+[Real-time crash prediction on expressways using deep generative models]: https://www.sciencedirect.com/science/article/pii/S0968090X20306124
+[An Augmentation Function for Active Pedestrian Safety System Based on Crash Risk Evaluation]: https://ieeexplore.ieee.org/abstract/document/9169829
+[Multi-objective reinforcement learning approach for improving safety at intersections with adaptive traffic signal control]: https://www.sciencedirect.com/science/article/pii/S0001457520303948
+[Influence of pedestrian-to-vehicle technology on drivers’ response and safety benefits considering pre-crash conditions]: https://www.sciencedirect.com/science/article/pii/S1369847820304496
