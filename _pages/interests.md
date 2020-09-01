@@ -15,10 +15,11 @@ author_profile: true
    * **J. Yuan**, M. Abdel-Aty, L. Wang, J. Lee, R. Yu, X. Wang, 2018. “[Utilizing Bluetooth and Adaptive Signal Control Data for Real-Time Safety Analysis on Urban Arterials]”. Transportation Research Part C: Emerging Technologies, 97, 114-127.
    * **J. Yuan**, M. Abdel-Aty, 2018. “[Approach-Level Real-Time Crash Risk Analysis for Signalized Intersections]”. Accident Analysis & Prevention, 119, 274-289.
    * **J. Yuan**, M. Abdel-Aty, Y. Gong, Q. Cai, 2019. “[Real-Time Crash Risk Prediction Using Long Short-Term Memory Recurrent Neural Network]”. Transportation Research Record: Journal of the Transportation Research Board, 2673(4), 314-326.
-   * **J. Yuan**, M. Abdel-Aty, L. Yue, Q. Cai, 2020. “Modeling Real-Time Cycle-Level Crash Risk at Signalized Intersections Based on High-Resolution Event-Based Data”. IEEE Transaction on Intelligent Transportation Systems. (Accepted)
+   * **J. Yuan**, M. Abdel-Aty, L. Yue, Q. Cai, 2020. “[Modeling Real-Time Cycle-Level Crash Risk at Signalized Intersections Based on High-Resolution Event-Based Data]”. IEEE Transaction on Intelligent Transportation Systems.
    * **J. Yuan**, M. Abdel-Aty, Q. Cai, L. Yue, Y. Gong, 2020. “Deep Spatial-Temporal Network for Corridor-Level Real-Time Crash Risk Prediction”. Transportation Research Part C: Emerging Technologies. (Under first-round review)
    * Z. Cheng, **J. Yuan**, B. Yu, J. Lu, 2020. “Quantitative Characterization and Classification of Real-time Crash Risks”. IEEE Transaction on Intelligent Transportation Systems. (Under second-round review)
    * P. Li, M. Abdel-Aty, **J. Yuan**, 2020. “[Real-Time Crash Risk Prediction on Arterials Based on LSTM-CNN]”. Accident Analysis & Prevention, 135, 105371.
+   * Cai, Q., Abdel-Aty, M., **Yuan, J.**, Lee, J. and Wu, Y., 2020. "[Real-time crash prediction on expressways using deep generative models]". Transportation research part C: emerging technologies, 117, p.102697.
 
    *Patents and Copyrights*
    
@@ -28,7 +29,7 @@ author_profile: true
    *Awards*
    
    * [Prince Michael International Road Safety Awards](http://www.roadsafetyawards.com/universityofcentralflorida), HRH Prince Michael of Kent, GCVO, Sep. 2019 (Team Award, Major Contributor)
-   * [Stage III Winner in the USDOT's Solving for Safety Visualization Challenge](https://www.transportation.gov/solve4safety/solve4safetysubmissions), U.S. Department of Transportation, Nov. 2019 (Team Award, Major Contributor) [Video Demonstration](https://www.youtube.com/watch?v=ID5PpVTFJ5o&feature=youtu.be)
+   * [Stage III Winner in the USDOT's Solving for Safety Visualization Challenge](https://www.transportation.gov/solve4safety/solve4safetysubmissions), [Video Demonstration](https://www.youtube.com/watch?v=ID5PpVTFJ5o&feature=youtu.be), U.S. Department of Transportation, Nov. 2019 (Team Award, Major Contributor)
    
 **2. Intelligent Transportation System, Big Data, and Deep Learning**
 
@@ -40,14 +41,18 @@ author_profile: true
    * N. Formosa, M. Quddus, S. Ison, M. Abdel-Aty, **J. Yuan**, 2020. “[Predicting real-time traffic conflicts using deep learning]”. Accident Analysis & Prevention, 136, 105429.
    * P. Li, M. Abdel-Aty, **J. Yuan**, 2020. “[Real-Time Crash Risk Prediction on Arterials Based on LSTM-CNN]”. Accident Analysis & Prevention, 135, 105371.
    * Q. Cai, M. Abdel-Aty, Y. Sun, J. Lee, **J. Yuan**, 2019. “[Applying a deep learning approach for transportation safety planning by using high-resolution transportation and land use data]”. Transportation Research Part A: Policy and Practice, 127, 71-85.
-   * Q. Cai, M. Abdel-Aty, **J. Yuan**, J. Lee, Y. Wu, 2020. “Real-Time Crash Prediction on Expressways Using Deep Generative Models”. Transportation Research Part C: Emerging Technologies. (Under second-round review)
-   * L. Yue, M. Abdel-Aty, Y. Wu, **J. Yuan**, 2020. “An Augmentation Function for Active Pedestrian Safety System Based on Crash Risk Evaluation”. IEEE Transaction on Vehicular Technology. (Under first-round review)
-   * N. Mahmoud, M. Abdel-Aty, Q. Cai, **J. Yuan**, 2020. “Cycle-Level Real-Time Turning Movement Estimation Based on Adjacent Intersections’ Data”. ”. IEEE Transaction on Intelligent Transportation Systems. (Under first-round review)
+   * Cai, Q., Abdel-Aty, M., **Yuan, J.**, Lee, J. and Wu, Y., 2020. "[Real-time crash prediction on expressways using deep generative models]". Transportation research part C: emerging technologies, 117, p.102697.
+   * L. Yue, M. Abdel-Aty, Y. Wu, **J. Yuan**, 2020. “[An Augmentation Function for Active Pedestrian Safety System Based on Crash Risk Evaluation]”. IEEE Transaction on Vehicular Technology. 
+   * N. Mahmoud, M. Abdel-Aty, Q. Cai, **J. Yuan**, 2020. “Cycle-Level Real-Time Turning Movement Estimation Based on Adjacent Intersections’ Data”. IEEE Transaction on Intelligent Transportation Systems. (Under first-round review)
+   * Gong, Y., Abdel-Aty, M., **Yuan, J**. and Cai, Q., 2020. "[Multi-objective reinforcement learning approach for improving safety at intersections with adaptive traffic signal control]". Accident Analysis & Prevention, 144, p.105655.
+   * Abdelraouf, A., Abdel-Aty, M., and **Yuan, J**., 2020. "Utilizing Attention-Based Multi-Encoder-Decoder Neural Networks for Freeway Traffic Speed Prediction". IEEE Transaction on Intelligent Transportation Systems. (Under first-round review)
 
 **3. Crash Analysis and Modeling**
 
    *Publications*
    
+   * **J. Yuan**, M. Abdel-Aty, J. Fu, Y. Wu, L. Yue, N. Eluru, 2020. "Developing Short-Term Safety Performance Functions for Freeways at Different Aggregation Levels by Using Multi-State Microscopic Traffic Detector Data". Transportation Research Record. (Under first-round review)
+   * A. Abdelrahman, M. Abdel-Aty, **J. Yuan***, M. Al-Omari, 2020. "Systematic Safety Evaluation of Diverging Diamond Interchanges Based on Nationwide Implementation Data". Transportation Research Record. (Under first-round review)
    * L. Yue, M. Abdel-Aty, Y. Wu, O. Zheng, **J. Yuan***, 2020. “[In-depth approach for identifying crash causation patterns and its implications for pedestrian crash prevention]”. Journal of Safety Research, 73, 119-132.
    * X. Wang, **J. Yuan**, G. Schultz, S. Fang, 2018. “[Investigating the safety impact of roadway network features of suburban arterials in Shanghai]”. Accident Analysis & Prevention, 113, 137-148.
    * X. Wang, **J. Yuan**, 2017. “[Safety Impacts Study of Roadway Network Features on Suburban Highways]”. China Journal of Highway and Transport, 30 (4), 106-114. (In Chinese, Second Prize for Outstanding Paper Award, China Journal of Highway and Transport)
@@ -69,7 +74,8 @@ author_profile: true
    * **J. Yuan**, M. Abdel-Aty, Q. Cai, J. Lee, 2019. “[Investigating Drivers' Mandatory Lane Change Behavior on the Weaving Section of Freeway with Managed Lane: A Driving Simulator Study]”. Transportation Research Part F: Traffic Psychology and Behavior, 62, 11-32.
    * Q. Cai, M. Saad, M. Abdel-Aty, **J. Yuan**, J. Lee, 2018. “[Safety Impact of Weaving Distance on Freeway Facilities with Managed Lanes Using Both Microscopic Traffic and Driving Simulations]”. Transportation Research Record: Journal of the Transportation Research Board, 2672(39), 130-141.
    * Y. Li, M. Abdel-Aty, **J. Yuan**, Z. Cheng, J. Lu, 2020. “[Analyzing Traffic Violation Behavior at Urban Intersections: A Spatial-Temporal Kernel Density Estimation Approach Using Automated Enforcement System Data]”. Accident Analysis & Prevention 141 (2020): 105509.
-
+   * Yue, L., Abdel-Aty, M., Wu, Y., **Yuan, J**. and Morris, M., 2020. "[Influence of pedestrian-to-vehicle technology on drivers’ response and safety benefits considering pre-crash conditions]". Transportation Research Part F: Traffic Psychology and Behaviour, 73, pp.50-65.
+   
    *Project Report*
    
    * M. Abdel-Aty, J. Lee, L. Wang, Q. Cai, M. Saad, **J. Yuan**, 2017. "[Phase II: Operational and Safety-Based Analyses of Varied Toll Lane Configurations]", U.S.DOT SAFER-SIM University Transport Center, Iowa City, IA.
@@ -96,3 +102,8 @@ author_profile: true
 [Safety Impacts Study of Roadway Network Features on Suburban Highways]: http://zgglxb.qgyiz.com/CN/article/downloadArticleFile.do?attachType=PDF&id=2515
 [Modeling Research of Crash Types at Signalized Intersections Base on the Random Effect Model]: http://www.tjsafety.cn/bgAdmin/htmledit/uploadfile/20170103191339523.pdf
 [Phase II: Operational and Safety-Based Analyses of Varied Toll Lane Configurations]: http://safersim.nads-sc.uiowa.edu/final_reports/UCF%203%20Y2_Report.pdf
+[Modeling Real-Time Cycle-Level Crash Risk at Signalized Intersections Based on High-Resolution Event-Based Data]: https://ieeexplore.ieee.org/abstract/document/9103256
+[Real-time crash prediction on expressways using deep generative models]: https://www.sciencedirect.com/science/article/pii/S0968090X20306124
+[An Augmentation Function for Active Pedestrian Safety System Based on Crash Risk Evaluation]: https://ieeexplore.ieee.org/abstract/document/9169829
+[Multi-objective reinforcement learning approach for improving safety at intersections with adaptive traffic signal control]: https://www.sciencedirect.com/science/article/pii/S0001457520303948
+[Influence of pedestrian-to-vehicle technology on drivers’ response and safety benefits considering pre-crash conditions]: https://www.sciencedirect.com/science/article/pii/S1369847820304496
