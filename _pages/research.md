@@ -18,5 +18,7 @@ author_profile: true
    *Florida Department of Transportation*
 1. Connecting the East Orlando Communities Project-Phase I \
    *Federal Highway Administration (FHWA) ATCMTD*
+1. Investigation of Driving Behavior at Alternative Intersection Designs and Safety Improvement: A Driver Simulator Study ($125,627) \
+   *U.S.DOT University Transportation Center (SAFER-SIM)*
      
 
