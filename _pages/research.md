@@ -16,4 +16,7 @@ author_profile: true
 ## Lead Researcher or Key Researcher
 1. Improving Multimodal Traffic Safety for Multi-Lane Arterials (\$440,000) \
    *Florida Department of Transportation*
+1. Connecting the East Orlando Communities Project-Phase I \
+   *Federal Highway Administration (FHWA) ATCMTD*
+     
 
