@@ -14,5 +14,6 @@ author_profile: true
    *U.S. Department of Transportation Safety Data Initiative*
 
 ## Lead Researcher or Key Researcher
-
+1. Improving Multimodal Traffic Safety for Multi-Lane Arterials (\$440,000) \
+   *Florida Department of Transportation*
 
