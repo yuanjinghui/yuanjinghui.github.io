@@ -20,5 +20,15 @@ author_profile: true
    *Federal Highway Administration (FHWA) ATCMTD*
 1. Investigation of Driving Behavior at Alternative Intersection Designs and Safety Improvement: A Driver Simulator Study ($125,627) \
    *U.S.DOT University Transportation Center (SAFER-SIM)*
+1. Study of Intersection Turning Movement Estimation ($100,000) \
+   *Florida Department of Transportation*
+1. Pre-Deployment Study for the Connecting the East Orlando Communities Project \
+   *Federal Highway Administration (FHWA) ATCMTD*
+1. Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors ($486,640) \
+   *Florida Department of Transportation*
+1. Integrated Freeway/Arterial Active Traffic Management ($499,861) \
+   *Florida Department of Transportation*
+1. Operational and Safety-Based Analyses of Varied Toll Lane Configurations \
+   *U.S.DOT University Transportation Center (SAFER-SIM)*
      
 
