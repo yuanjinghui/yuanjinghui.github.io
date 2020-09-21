@@ -8,10 +8,12 @@ author_profile: true
 {% include base_path %}
 
 Principle Investigator or Co-Principle Investigator
-====
-1. [Development of Crash Prediction Models for Short-Term Durations ($650,000)](https://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4780)
+==
+1. [Development of Crash Prediction Models for Short-Term Durations](https://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4780) ($650,000)
    *  
 
-1. [Crash Predictions for Expedited Detection (CPED) ($294,942)](https://www.transportation.gov/briefing-room/us-department-transportation-announces-over-3-million-roadway-safety-tools-0)
+1. [Crash Predictions for Expedited Detection (CPED)](https://www.transportation.gov/briefing-room/us-department-transportation-announces-over-3-million-roadway-safety-tools-0) ($294,942)
    * 
 
+Lead Researcher or Key Researcher
+==
