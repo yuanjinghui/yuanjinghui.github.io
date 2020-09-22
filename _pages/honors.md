@@ -13,4 +13,5 @@ author_profile: true
 1. Excellence Award, U.S.DOT University Transportation Center (SAFER-SIM), Oct 2019
 1. UCF College of Graduate Studies Presentation Fellowship, University of Central Florida, Nov 2018
 1. UCF College of Graduate Studies Presentation Fellowship, University of Central Florida, Nov 2017
-1. FRONTRUNNER 5000 Top Articles in Outstanding S&T Journals of China, Institute of Scientific and Technical Information of China, Nov 2017
+1. FRONTRUNNER 5000 Top Articles in Outstanding S&T Journals of China, Institute of Scientific and Technical Information of China, Oct 2017
+1. ORC Doctoral Fellowship, University of Central Florida, Aug 2016
