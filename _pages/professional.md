@@ -30,7 +30,7 @@ author_profile: true
 * Automated Vehicle Symposium, 2018 – Present
 
 ## Editorship
-* Guest Editor, Journal of Advanced Transportation, Special Issue on Emerging Technologies in TrafficSafety Risk Evaluation, Prevention, and Control, 2019
+* Guest Editor, Journal of Advanced Transportation, Special Issue on Emerging Technologies in Traffic Safety Risk Evaluation, Prevention, and Control, 2019
 
 
 
