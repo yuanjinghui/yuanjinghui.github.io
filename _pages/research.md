@@ -12,7 +12,9 @@ author_profile: true
    Jul 2020 – Jan 2023, *Transportation Research Board of the National Academies*
 1. [Crash Predictions for Expedited Detection (CPED)](https://www.transportation.gov/briefing-room/us-department-transportation-announces-over-3-million-roadway-safety-tools-0) ($294,942) \
    Sep 2020 – Sep 2021, *U.S. Department of Transportation Safety Data Initiative*
-
+1. ATTAIN: Intersection Signal Prediction and Corridor Traffic Management Based on Big-Data Analytics and Cutting-Edge Technologies \
+   Oct 2020 – May 2022, *Federal Highway Administration (FHWA) ATCMTD*
+   
 ## Lead Researcher or Key Researcher
 1. Improving Multimodal Traffic Safety for Multi-Lane Arterials (\$440,000) \
     Feb 2020 – Apr 2022, *Florida Department of Transportation*
