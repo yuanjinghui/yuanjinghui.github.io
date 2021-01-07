@@ -23,6 +23,7 @@ author_profile: true
 * Transportmetrica A: Transport Science, 2018 – Present
 * Journal of Transportation Safety Security, 2017 – Present
 * Journal of Traffic and Transportation Engineering, 2017 – Present
+* Safety, 2020 - Present
 * Advances in Mechanical Engineering, 2017 – Present
 * Transportation Research Board Annual Meeting, 2017 – Present
 * ASCE International Conference on Transportation Development, 2018 – Present
