@@ -18,7 +18,7 @@ author_profile: true
 
 2021
 ======
-1. **Yuan, J.**, Abdel-Aty, M., Fu, J., Wu, Y., Yue, L., and Eluru, N., 2021. "[Developing Safety Performance Functions for Freeways at Different Aggregation Levels Using Multi-State Microscopic Traffic Detector Data]". Accident Analysis & Prevention (Accepted).
+1. **Yuan, J.**, Abdel-Aty, M., Fu, J., Wu, Y., Yue, L., and Eluru, N., 2021. "Developing Safety Performance Functions for Freeways at Different Aggregation Levels Using Multi-State Microscopic Traffic Detector Data". Accident Analysis & Prevention (Accepted).
 1. Mahmoud, N., Abdel-Aty, M., Cai, Q., and **Yuan, J.**, 2021. "[Predicting cycle-level traffic movements at signalized intersections using machine learning models]". Transportation Research Part C: Emerging Technologies, 124: 102930.
 1. Islam, Z., Abdel-Aty, M., Cai, Q., and **Yuan, J.**, 2021. "[Crash data augmentation using variational autoencoder]". Accident Analysis & Prevention, 151: 105950.
 
