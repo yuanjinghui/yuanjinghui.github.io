@@ -18,6 +18,7 @@ author_profile: true
 
 2021
 ======
+1. Abdelrahman, A., Abdel-Aty, M., **Yuan, J.***, Al-Omari, M., 2021. "Systematic Safety Evaluation of Diverging Diamond Interchanges Based on Nationwide Implementation Data". Transportation Research Record: Journal of the Transportation Research Board (Accepted).
 1. **Yuan, J.**, Abdel-Aty, M., Fu, J., Wu, Y., Yue, L., and Eluru, N., 2021. "Developing Safety Performance Functions for Freeways at Different Aggregation Levels Using Multi-State Microscopic Traffic Detector Data". Accident Analysis & Prevention (Accepted).
 1. Mahmoud, N., Abdel-Aty, M., Cai, Q., and **Yuan, J.**, 2021. "[Predicting cycle-level traffic movements at signalized intersections using machine learning models]". Transportation Research Part C: Emerging Technologies, 124: 102930.
 1. Islam, Z., Abdel-Aty, M., Cai, Q., and **Yuan, J.**, 2021. "[Crash data augmentation using variational autoencoder]". Accident Analysis & Prevention, 151: 105950.
@@ -32,7 +33,7 @@ author_profile: true
 1. Cai, Q., Abdel-Aty, M., **Yuan, J.**, Lee, J. and Wu, Y., 2020. "[Real-time crash prediction on expressways using deep generative models]". Transportation research part C: emerging technologies, 117, p.102697.
 1. **J. Yuan.**, M. Abdel-Aty, L. Yue, Q. Cai, 2020. “[Modeling Real-Time Cycle-Level Crash Risk at Signalized Intersections Based on High-Resolution Event-Based Data]”. IEEE Transaction on Intelligent Transportation Systems.
 1. L. Xing, J. He, M. Abdel-Aty, Y. Wu, **Yuan, J.**, 2020. "[Time-varying analysis of traffic conflicts at the upstream approach of toll plaza]". Accident Analysis & Prevention 141 (2020): 105539.
-1. S. Zhang, M. Abdel-Aty, **Yuan, J.**, P. Li, 2020. "[Prediction of Pedestrian Crossing Intentions at Intersections Based on Long Short-Term Memory Recurrent Neural Network]". Transportation Research Record (2020): 0361198120912422.
+1. S. Zhang, M. Abdel-Aty, **Yuan, J.**, P. Li, 2020. "[Prediction of Pedestrian Crossing Intentions at Intersections Based on Long Short-Term Memory Recurrent Neural Network]". Transportation Research Record: Journal of the Transportation Research Board (2020): 0361198120912422.
 1. L. Yue, M. Abdel-Aty, Y. Wu, O. Zheng, **Yuan, J.***, 2020. “[In-depth approach for identifying crash causation patterns and its implications for pedestrian crash prevention]”. Journal of Safety Research, 73, 119-132.
 1. Y. Li, M. Abdel-Aty, **Yuan, J.**, Z. Cheng, J. Lu, 2020. “[Analyzing Traffic Violation Behavior at Urban Intersections: A Spatial-Temporal Kernel Density Estimation Approach Using Automated Enforcement System Data]”. Accident Analysis & Prevention 141 (2020): 105509.
 1. N. Formosa, M. Quddus, S. Ison, M. Abdel-Aty, **Yuan, J.**, 2020. “[Predicting real-time traffic conflicts using deep learning]”. Accident Analysis & Prevention, 136, 105429.
