@@ -18,6 +18,7 @@ author_profile: true
 * Transportation Research Part F: Psychology and Behavior, 2018 – Present
 * Transportation Research Record: Journal of the Transportation Research Board, 2018 – Present
 * Journal of Intelligent Transportation Systems: Technology, Planning, and Operations, 2019 – Present
+* Transport Policy, 2021 – Present
 * Traffic Injury Prevention, 2018 – Present
 * Journal of Advanced Transportation, 2019 – Present
 * Transportmetrica A: Transport Science, 2018 – Present
