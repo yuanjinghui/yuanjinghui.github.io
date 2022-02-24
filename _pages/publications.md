@@ -15,15 +15,21 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+2022
+======
+1. Cheng, Z., **Yuan, J.**, Yu, B., Lu, J. and Zhao, Y., 2022. Crash Risks Evaluation of Urban Expressways: A Case Study in Shanghai. IEEE Transactions on Intelligent Transportation Systems.
+
 
 2021
 ======
-1. Mahmoud, N., Abdel-Aty, M., Cai, Q. and **Yuan, J.**, 2021. Estimating cycle-level real-time traffic movements at signalized intersections. Journal of Intelligent Transportation Systems, pp.1-24.
-1. Wang, X., Pei, Y., Yang, M. and **Yuan, J.**, 2021. Meso-level hotspot identification for suburban arterials. Accident Analysis & Prevention, 156, p.106148.
-1. Abdelrahman, A., Abdel-Aty, M., **Yuan, J.***, Al-Omari, M., 2021. "Systematic Safety Evaluation of Diverging Diamond Interchanges Based on Nationwide Implementation Data". Transportation Research Record: Journal of the Transportation Research Board (Accepted).
-1. **Yuan, J.**, Abdel-Aty, M., Fu, J., Wu, Y., Yue, L., and Eluru, N., 2021. "Developing Safety Performance Functions for Freeways at Different Aggregation Levels Using Multi-State Microscopic Traffic Detector Data". Accident Analysis & Prevention (Accepted).
-1. Mahmoud, N., Abdel-Aty, M., Cai, Q., and **Yuan, J.**, 2021. "[Predicting cycle-level traffic movements at signalized intersections using machine learning models]". Transportation Research Part C: Emerging Technologies, 124: 102930.
-1. Islam, Z., Abdel-Aty, M., Cai, Q., and **Yuan, J.**, 2021. "[Crash data augmentation using variational autoencoder]". Accident Analysis & Prevention, 151: 105950.
+1. Li, Y., Li, M., **Yuan, J.**, Lu, J. and Abdel-Aty, M., 2021. Analysis and prediction of intersection traffic violations using automated enforcement system data. Accident Analysis & Prevention, 162, p.106422.
+2. Abdelraouf, A., Abdel-Aty, M. and **Yuan, J.**, 2021. Utilizing Attention-Based Multi-Encoder-Decoder Neural Networks for Freeway Traffic Speed Prediction. IEEE Transactions on Intelligent Transportation Systems.
+3. Mahmoud, N., Abdel-Aty, M., Cai, Q. and **Yuan, J.**, 2021. Estimating cycle-level real-time traffic movements at signalized intersections. Journal of Intelligent Transportation Systems, pp.1-24.
+4. Wang, X., Pei, Y., Yang, M. and **Yuan, J.**, 2021. Meso-level hotspot identification for suburban arterials. Accident Analysis & Prevention, 156, p.106148.
+5. Abdelrahman, A., Abdel-Aty, M., **Yuan, J.***, Al-Omari, M., 2021. "Systematic Safety Evaluation of Diverging Diamond Interchanges Based on Nationwide Implementation Data". Transportation Research Record: Journal of the Transportation Research Board (Accepted).
+6. **Yuan, J.**, Abdel-Aty, M., Fu, J., Wu, Y., Yue, L., and Eluru, N., 2021. "Developing Safety Performance Functions for Freeways at Different Aggregation Levels Using Multi-State Microscopic Traffic Detector Data". Accident Analysis & Prevention (Accepted).
+7. Mahmoud, N., Abdel-Aty, M., Cai, Q., and **Yuan, J.**, 2021. "[Predicting cycle-level traffic movements at signalized intersections using machine learning models]". Transportation Research Part C: Emerging Technologies, 124: 102930.
+8. Islam, Z., Abdel-Aty, M., Cai, Q., and **Yuan, J.**, 2021. "[Crash data augmentation using variational autoencoder]". Accident Analysis & Prevention, 151: 105950.
 
 
 2020
