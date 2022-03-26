@@ -14,6 +14,7 @@ author_profile: true
 * Member, Chinese Overseas Transportation Association (COTA), 2017 – Present
 
 ## Referee
+* IEEE Transactions on Intelligent Transportation Systems, 2021 – Present
 * Accident Analysis and Prevention, 2017 – Present
 * Transportation Research Part F: Psychology and Behavior, 2018 – Present
 * Transportation Research Record: Journal of the Transportation Research Board, 2018 – Present
