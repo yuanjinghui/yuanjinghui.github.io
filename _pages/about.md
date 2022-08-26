@@ -13,6 +13,7 @@ Jinghui Yuan is a R&D Associate Staff in the Vehicle Systems Integration Researc
 
 News
 ======
+* 2022/08/15: One co-authored paper has been published on Accident Analysis & Prevention. Abdel-Aty, M., Wu, Y., Zheng, O. and **Yuan, J.**, 2022. [Using closed-circuit television cameras to analyze traffic safety at intersections based on vehicle key points detection]. Accident Analysis & Prevention, 176, p.106794.
 * 2022/03/21: Dr. Yuan is attending the [U.S. Department of Energy Office of Technology Transitions' Energy I-Corps program] (Cohort 14). Dr. Yuan is serving as the Entrepreneurial Lead in the Team 171: Real-Twin (A Unified Scenario Generation Capability for Mobility Research). The PIs are Dr. Yunli Shao and Dr. Ross Wang.
 * 2022/02/01: One co-authored paper has been published on IEEE-TITS. Cheng, Z., **Yuan, J.**, Yu, B., Lu, J. and Zhao, Y., 2022. [Crash Risks Evaluation of Urban Expressways: A Case Study in Shanghai]. IEEE Transactions on Intelligent Transportation Systems.
 
@@ -30,3 +31,4 @@ News
 
 [U.S. Department of Energy Office of Technology Transitions' Energy I-Corps program]: https://www.energy.gov/technologytransitions/energy-i-corps
 [Crash Risks Evaluation of Urban Expressways: A Case Study in Shanghai]: https://ieeexplore.ieee.org/abstract/document/9686624
+[Using closed-circuit television cameras to analyze traffic safety at intersections based on vehicle key points detection]: https://www.sciencedirect.com/science/article/abs/pii/S0001457522002299
