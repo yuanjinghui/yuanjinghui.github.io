@@ -8,10 +8,12 @@ author_profile: true
 {% include base_path %}
 
 ## Oak Ridge National Laboratory
-1. Integrated Control of Vehicle Speeds and Traffic Signals for Reducing Congestion and Energy Use ($3,150,000) \
+1. (PI) Integrated Control of Vehicle Speeds and Traffic Signals for Reducing Congestion and Energy Use ($3,150,000) \
    Sep 2020 – Sep 2023, *U.S. Department of Energy*
 2. Applying Artificial Intelligence (AI) Based Signal Coordination and Controls for Optimized Mobility for the Nimitz Highway and Ala Moana Boulevard Arterial ($2,000,000) \
    Feb 2021 – Mar 2023, *U.S. Department of Energy*
+3. Real-Twin - A Unified Scenario Generation Capability for Mobility Research ($2,000,000) \
+   Jan 2022 – Mar 2024, *U.S. Department of Energy*
    
 ## University of Central Florida (UCF-SST)
 1. (Co-PI) [NCHRP 22-48: Development of Crash Prediction Models for Short-Term Durations](https://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4780) ($650,000) \
