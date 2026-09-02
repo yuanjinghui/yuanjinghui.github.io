@@ -1,3 +1,27 @@
+# Jinghui Yuan's Academic Website
+
+This repository publishes [yuanjinghui.github.io](https://yuanjinghui.github.io) with Jekyll and GitHub Pages.
+
+## CV integration
+
+The private CV repository is included as the `cv-source` submodule. Clone the site with:
+
+```bash
+git clone --recurse-submodules https://github.com/yuanjinghui/yuanjinghui.github.io.git
+```
+
+The deployment workflow compiles `cv-source/CV.tex` and adds the generated PDF to the Pages artifact at `/files/Jinghui-Yuan-CV.pdf`. Generated CV files are intentionally ignored by Git and the LaTeX source is excluded from the published site.
+
+Repository setup requires:
+
+- A read-only deploy key on the private CV repository, with its private key stored as the `CV_DEPLOY_KEY` Actions secret in this repository.
+- GitHub Pages configured to use **GitHub Actions** as its publishing source.
+- **Allow GitHub Actions to create and approve pull requests** enabled so the daily CV update check can open a reviewable submodule-update pull request.
+
+CV text on the website is curated rather than automatically parsed from LaTeX. When an update pull request is opened, review the News, Publications, Research Projects, Awards, and Professional Services pages before merging.
+
+## Template
+
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
 I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.

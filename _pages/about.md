@@ -1,34 +1,23 @@
 ---
 permalink: /
-title: "Welcome to Jinghui Yuan’s homepage"
-excerpt: "Welcome to Jinghui Yuan’s homepage"
+title: "Jinghui Yuan"
+excerpt: "Jinghui Yuan's academic homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Jinghui Yuan is a R&D Associate Staff in the Vehicle Systems Integration Research Group (VSIR) at Oak Ridge National Laboratory (ORNL). Prior to joining ORNL, Dr. Yuan was a postdoctoral research scholar in the Department of Civil Engineering at the University of Central Florida. He received the B.S. degree in civil engineering from Central South University, Changsha, China, in 2013, the M.S. degree in transportation planning and management from Tongji University, Shanghai, China, in 2016, and the Ph.D. degree in transportation engineering from the University of Central Florida, Orlando, FL, USA, in 2019. He is now serving as young member of ASCE Transportation & Development Institute transportation safety committee. His research interests include intelligent transportation system, crash risk analysis and prediction, big data analytics, deep learning, high performance computing (HPC), connected and automated vehicles (CAV), and pro-active traffic management.
+Jinghui Yuan is an R&D Staff Member in the [Applied Research for Mobility Systems](https://www.ornl.gov/group/applied-research-for-mobility-systems) Group at Oak Ridge National Laboratory (ORNL). His research develops AI-enabled transportation technologies for safer, more efficient, and more resilient mobility. His work spans connected and automated vehicle safety and energy evaluation, vehicle-in-the-loop and X-in-the-loop testing, real-time co-simulation, high-fidelity digital twins, distributed traffic signal control, eco-driving, trustworthy reinforcement learning, transportation cybersecurity, and agentic scenario generation.
 
+Dr. Yuan received his Ph.D. in Civil Engineering (Transportation) from the University of Central Florida, his M.Eng. in Transportation Planning and Management from Tongji University, and his B.Eng. in Civil Engineering from Central South University. He is an IEEE Senior Member and serves as an Associate Editor for the *IEEE Transactions on Intelligent Vehicles* and the *IEEE Open Journal of Intelligent Transportation Systems*.
 
-News
-======
-* 2022/08/15: One co-authored paper has been published on Accident Analysis & Prevention. Abdel-Aty, M., Wu, Y., Zheng, O. and **Yuan, J.**, 2022. [Using closed-circuit television cameras to analyze traffic safety at intersections based on vehicle key points detection]. Accident Analysis & Prevention, 176, p.106794.
-* 2022/03/21: Dr. Yuan is attending the [U.S. Department of Energy Office of Technology Transitions' Energy I-Corps program] (Cohort 14). Dr. Yuan is serving as the Entrepreneurial Lead in the Team 171: Real-Twin (A Unified Scenario Generation Capability for Mobility Research). The PIs are Dr. Yunli Shao and Dr. Ross Wang.
-* 2022/02/01: One co-authored paper has been published on IEEE-TITS. Cheng, Z., **Yuan, J.**, Yu, B., Lu, J. and Zhao, Y., 2022. [Crash Risks Evaluation of Urban Expressways: A Case Study in Shanghai]. IEEE Transactions on Intelligent Transportation Systems.
+## News
 
-
-
-
-
-
-
-
-
-
-
-
-
-[U.S. Department of Energy Office of Technology Transitions' Energy I-Corps program]: https://www.energy.gov/technologytransitions/energy-i-corps
-[Crash Risks Evaluation of Urban Expressways: A Case Study in Shanghai]: https://ieeexplore.ieee.org/abstract/document/9686624
-[Using closed-circuit television cameras to analyze traffic safety at intersections based on vehicle key points detection]: https://www.sciencedirect.com/science/article/abs/pii/S0001457522002299
+- **August 2026:** Received the **2026 BTSD Early Career Award - Transportation** from the Buildings and Transportation Science Division at Oak Ridge National Laboratory.
+- **August 2026:** **Eco-VTrac: A Real-Time Energy Optimization System for Vehicles and Traffic Signals**, led as Principal Investigator, received a [2026 R&D 100 Award](https://www.rdworldonline.com/rd-100-archive/?YEAR=2026).
+- **August 12, 2026:** Awarded four new U.S. Department of Energy projects: **SAVED** ($4.5M, Principal Investigator), **Eco-Corridor** ($2.4M, Principal Investigator), **Multi-Agent AI System for Resilient and Energy Efficient Regional Transportation Operations** ($2.5M, Co-Principal Investigator), and **DASiC-NEXT** ($1.0M, Co-Principal Investigator).
+- **2026:** Appointed Associate Editor of the *IEEE Transactions on Intelligent Vehicles* and the *IEEE Open Journal of Intelligent Transportation Systems*.
+- **2026:** Published "Agentic Traffic Intelligence: Augmented Human-In-The-Loop Scenario Generation for Microscopic Traffic Simulation" in *Artificial Intelligence for Transportation*.
+- **2025:** The lead-author paper "Integrated Traffic Signal and Vehicle Speed Control for Improving Energy Efficiency and Reducing Congestion" was conditionally accepted by *Nature Communications*.
+- **2025:** Released **Real-Twin**, a U.S. Department of Energy software capability for mobility scenario generation.

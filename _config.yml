@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Dr. Jinghui Yuan"
 title_separator          : "-"
 name                     : &name "Jinghui Yuan"
-description              : &description "R&D Associate Staff at ORNL"
+description              : &description "R&D Staff Member at Oak Ridge National Laboratory"
 url                      : https://yuanjinghui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yuanjinghui.github.io"
+repository               : "yuanjinghui/yuanjinghui.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,14 +82,15 @@ analytics:
 author:
   name             : "Dr. Jinghui Yuan"
   avatar           : "jinghui.jpg"
-  bio              : "R&D Associate Staff at ORNL"
+  bio              : "R&D Staff Member at ORNL"
   location         : "Oak Ridge, Tennessee"
-  employer         :
+  employer         : "Oak Ridge National Laboratory"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=-0gUBGMAAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Jinghui_Yuan"
-  uri              :
+  uri              : "https://www.ornl.gov/staff-profile/jinghui-yuan"
+  cv               : "/files/Jinghui-Yuan-CV.pdf"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jinghui-yuan-45797b85/"
+  linkedin         : "jinghui-yuan-45797b85"
   orcid            : "https://orcid.org/0000-0003-0895-1997"
   pinterest        :
   soundcloud       :
@@ -131,6 +132,8 @@ exclude:
   - .sass-cache
   - CHANGELOG
   - Capfile
+  - CONTRIBUTING.md
+  - cv-source
   - Gemfile
   - Gruntfile.js
   - LICENSE
@@ -142,8 +145,12 @@ exclude:
   - config
   - gulpfile.js
   - log
+  - markdown_generator
   - node_modules
   - package.json
+  - talkmap
+  - talkmap.ipynb
+  - talkmap.py
   - tmp
   - vendor
 keep_files:
@@ -255,7 +262,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

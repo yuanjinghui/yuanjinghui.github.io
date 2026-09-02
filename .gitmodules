@@ -1,0 +1,4 @@
+[submodule "cv-source"]
+	path = cv-source
+	url = https://github.com/yuanjinghui/Jinghui-Yuan-CV-Updating.git
+	branch = main

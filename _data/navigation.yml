@@ -1,4 +1,4 @@
-# main links links
+# Main navigation
 main:
   - title: "Research Interests"
     url: /interests/
@@ -6,8 +6,14 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Patents & Software"
+    url: /patents/
+
   - title: "Research Projects"
     url: /research/
+
+  - title: "Experience"
+    url: /experience/
 
   - title: "Education"
     url: /education/
@@ -17,3 +23,9 @@ main:
         
   - title: "Professional Services"
     url: /professional/
+
+  - title: "Invited Talks"
+    url: /talks/
+
+  - title: "CV"
+    url: /files/Jinghui-Yuan-CV.pdf

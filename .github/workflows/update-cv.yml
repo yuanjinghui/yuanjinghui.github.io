@@ -1,0 +1,118 @@
+name: Check for CV updates
+
+on:
+  schedule:
+    - cron: "17 11 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      UPDATE_BRANCH: automation/update-cv
+
+    steps:
+      - name: Check out website
+        uses: actions/checkout@v6
+        with:
+          ref: master
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Read current CV revision
+        id: current_cv
+        shell: bash
+        run: |
+          set -euo pipefail
+          echo "sha=$(git rev-parse HEAD:cv-source)" >> "${GITHUB_OUTPUT}"
+
+      - name: Check out latest private CV
+        uses: actions/checkout@v6
+        with:
+          repository: yuanjinghui/Jinghui-Yuan-CV-Updating
+          ref: main
+          path: cv-source
+          ssh-key: ${{ secrets.CV_DEPLOY_KEY }}
+          persist-credentials: false
+
+      - name: Check for a newer CV revision
+        id: cv
+        shell: bash
+        run: |
+          set -euo pipefail
+          latest_sha="$(git -C cv-source rev-parse HEAD)"
+
+          echo "sha=${latest_sha}" >> "${GITHUB_OUTPUT}"
+          if [[ "${{ steps.current_cv.outputs.sha }}" == "${latest_sha}" ]]; then
+            echo "changed=false" >> "${GITHUB_OUTPUT}"
+          else
+            echo "changed=true" >> "${GITHUB_OUTPUT}"
+          fi
+
+      - name: Commit submodule update
+        id: commit
+        if: steps.cv.outputs.changed == 'true'
+        shell: bash
+        env:
+          SITE_REPO_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          authorization="$(printf 'x-access-token:%s' "${SITE_REPO_TOKEN}" | base64 -w 0)"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git -c http.https://github.com/.extraheader="AUTHORIZATION: basic ${authorization}" \
+            fetch origin "refs/heads/${UPDATE_BRANCH}:refs/remotes/origin/${UPDATE_BRANCH}"; then
+            git checkout -B "${UPDATE_BRANCH}" "refs/remotes/origin/${UPDATE_BRANCH}"
+            if [[ "$(git rev-parse HEAD:cv-source)" == "${{ steps.cv.outputs.sha }}" ]]; then
+              echo "The update branch already references this CV revision."
+              echo "committed=false" >> "${GITHUB_OUTPUT}"
+              exit 0
+            fi
+          else
+            git checkout -B "${UPDATE_BRANCH}"
+          fi
+
+          git add cv-source
+          git commit -m "Update CV submodule to ${{ steps.cv.outputs.sha }}"
+          echo "committed=true" >> "${GITHUB_OUTPUT}"
+
+      - name: Push update branch
+        if: steps.commit.outputs.committed == 'true'
+        shell: bash
+        env:
+          SITE_REPO_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          authorization="$(printf 'x-access-token:%s' "${SITE_REPO_TOKEN}" | base64 -w 0)"
+          git -c http.https://github.com/.extraheader="AUTHORIZATION: basic ${authorization}" \
+            push origin "HEAD:refs/heads/${UPDATE_BRANCH}"
+
+      - name: Open update pull request
+        if: steps.cv.outputs.changed == 'true'
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          pull_request_number="$(gh pr list \
+            --repo "${GITHUB_REPOSITORY}" \
+            --head "${UPDATE_BRANCH}" \
+            --state open \
+            --json number \
+            --jq '.[0].number // empty')"
+
+          if [[ -z "${pull_request_number}" ]]; then
+            gh pr create \
+              --repo "${GITHUB_REPOSITORY}" \
+              --base master \
+              --head "${UPDATE_BRANCH}" \
+              --title "Update CV submodule" \
+              --body "Updates the private CV submodule to the latest revision. Review CV-derived website content for corresponding News, publication, project, award, and service changes before merging."
+          else
+            echo "Pull request #${pull_request_number} already tracks the latest CV revision."
+          fi
