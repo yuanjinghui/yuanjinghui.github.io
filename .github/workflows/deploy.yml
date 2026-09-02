@@ -43,9 +43,11 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install --no-install-recommends --yes \
+            fonts-croscore \
             latexmk \
             texlive-fonts-recommended \
             texlive-latex-extra \
+            texlive-plain-generic \
             texlive-xetex
 
       - name: Build CV
