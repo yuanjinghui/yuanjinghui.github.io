@@ -2,7 +2,7 @@
 
 This repository publishes [yuanjinghui.github.io](https://yuanjinghui.github.io) with Jekyll and GitHub Pages.
 
-## CV integration
+## CV source integration
 
 The private CV repository is included as the `cv-source` submodule. Clone the site with:
 
@@ -10,11 +10,11 @@ The private CV repository is included as the `cv-source` submodule. Clone the si
 git clone --recurse-submodules https://github.com/yuanjinghui/yuanjinghui.github.io.git
 ```
 
-The deployment workflow compiles `cv-source/CV.tex` and adds the generated PDF to the Pages artifact at `/files/Jinghui-Yuan-CV.pdf`. Generated CV files are intentionally ignored by Git and the LaTeX source is excluded from the published site.
+The CV source and generated PDF are not published by the website. Generated CV files are ignored by Git, the deployment workflow does not initialize the private submodule, and both the source directory and PDF path are explicitly excluded from the Pages artifact.
 
 Repository setup requires:
 
-- A read-only deploy key on the private CV repository, with its private key stored as the `CV_DEPLOY_KEY` Actions secret in this repository.
+- A read-only deploy key on the private CV repository, with its private key stored as the `CV_DEPLOY_KEY` Actions secret in this repository for the scheduled update check.
 - GitHub Pages configured to use **GitHub Actions** as its publishing source.
 - **Allow GitHub Actions to create and approve pull requests** enabled so the daily CV update check can open a reviewable submodule-update pull request.
 

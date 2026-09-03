@@ -23,50 +23,6 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Read pinned CV revision
-        id: cv
-        shell: bash
-        run: |
-          set -euo pipefail
-          echo "sha=$(git rev-parse HEAD:cv-source)" >> "${GITHUB_OUTPUT}"
-
-      - name: Check out private CV
-        uses: actions/checkout@v6
-        with:
-          repository: yuanjinghui/Jinghui-Yuan-CV-Updating
-          ref: ${{ steps.cv.outputs.sha }}
-          path: cv-source
-          ssh-key: ${{ secrets.CV_DEPLOY_KEY }}
-          persist-credentials: false
-
-      - name: Install CV build dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install --no-install-recommends --yes \
-            fonts-croscore \
-            latexmk \
-            texlive-fonts-recommended \
-            texlive-latex-extra \
-            texlive-plain-generic \
-            texlive-xetex
-
-      - name: Build CV
-        shell: bash
-        working-directory: cv-source
-        run: |
-          set -euo pipefail
-          mkdir -p "${RUNNER_TEMP}/cv-build"
-          latexmk \
-            -xelatex \
-            -interaction=nonstopmode \
-            -halt-on-error \
-            --outdir="${RUNNER_TEMP}/cv-build" \
-            CV.tex
-          test -s "${RUNNER_TEMP}/cv-build/CV.pdf"
-          install -D -m 0644 \
-            "${RUNNER_TEMP}/cv-build/CV.pdf" \
-            "../files/Jinghui-Yuan-CV.pdf"
-
       - name: Configure GitHub Pages
         id: pages
         uses: actions/configure-pages@v5
@@ -81,8 +37,8 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          test -s "_site/files/Jinghui-Yuan-CV.pdf"
           test ! -e "_site/cv-source"
+          test ! -e "_site/files/Jinghui-Yuan-CV.pdf"
 
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v4
