@@ -121,7 +121,6 @@ author:
 include:
   - .htaccess
   - _pages
-  - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -133,6 +132,7 @@ exclude:
   - Capfile
   - CONTRIBUTING.md
   - cv-source
+  - files/Jinghui-Yuan-CV.pdf
   - Gemfile
   - Gruntfile.js
   - LICENSE
