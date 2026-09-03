@@ -12,9 +12,6 @@ main:
   - title: "Research Projects"
     url: /research/
 
-  - title: "Experience"
-    url: /experience/
-
   - title: "Education"
     url: /education/
     
@@ -23,6 +20,3 @@ main:
         
   - title: "Professional Services"
     url: /professional/
-
-  - title: "Invited Talks"
-    url: /talks/

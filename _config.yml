@@ -250,6 +250,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      sitemap: false
 
 # Sass/SCSS
 sass:
