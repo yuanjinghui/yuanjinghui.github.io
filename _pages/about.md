@@ -12,11 +12,11 @@ Jinghui Yuan is an R&D Staff Member in the [Applied Research for Mobility System
 Dr. Yuan received his Ph.D. in Civil Engineering (Transportation) from the University of Central Florida, his M.Eng. in Transportation Planning and Management from Tongji University, and his B.Eng. in Civil Engineering from Central South University. He is an IEEE Senior Member and serves as an Associate Editor for the *IEEE Transactions on Intelligent Vehicles* and the *IEEE Open Journal of Intelligent Transportation Systems*.
 
 ## News
-
-- **August 2026:** Received the **2026 BTSD Early Career Award - Transportation** from the Buildings and Transportation Science Division at Oak Ridge National Laboratory.
+- **September 2026:** Jinghui Yuan and collaborators were granted U.S. Patent No. 12,741,640, titled [**Energy-Efficient Vehicle and/or Traffic Light Control**](https://patents.google.com/patent/US20250131819A1/en).
+- **August 2026:** Received the **2026 BTSD Early Career Award** from the Buildings and Transportation Science Division at Oak Ridge National Laboratory.
 - **August 2026:** **Eco-VTrac: A Real-Time Energy Optimization System for Vehicles and Traffic Signals**, led as Principal Investigator, selected as a [2026 R&amp;D 100 Award](https://www.rdworldonline.com/rd-100-archive/?YEAR=2026) Finalist.
 - **August 12, 2026:** Awarded four new U.S. Department of Energy projects, total funding $10.4M: **SAVED** ($4.5M, Principal Investigator), **Eco-Corridor** ($2.4M, Principal Investigator), **Multi-Agent AI System for Resilient and Energy Efficient Regional Transportation Operations** ($2.5M, Co-Principal Investigator), and **DASiC-NEXT** ($1.0M, Co-Principal Investigator).
 - **2026:** Appointed Associate Editor of the *IEEE Transactions on Intelligent Vehicles* and the *IEEE Open Journal of Intelligent Transportation Systems*.
 - **2026:** Published "Agentic Traffic Intelligence: Augmented Human-In-The-Loop Scenario Generation for Microscopic Traffic Simulation" in *Artificial Intelligence for Transportation*.
-- **2025:** The lead-author paper "Integrated Traffic Signal and Vehicle Speed Control for Improving Energy Efficiency and Reducing Congestion" was conditionally accepted by *Nature Communications*.
+- **2026:** The lead-author paper "Integrated Traffic Signal and Vehicle Speed Control for Improving Energy Efficiency and Reducing Congestion" was conditionally accepted by *Nature Communications*.
 - **2025:** Released **Real-Twin**, a U.S. Department of Energy software capability for mobility scenario generation.
