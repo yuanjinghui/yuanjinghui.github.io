@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-1. **2026 BTSD Early Career Award - Transportation**, Buildings and Transportation Science Division (BTSD), Oak Ridge National Laboratory, Aug 2026
+1. **2026 BTSD Early Career Award**, Buildings and Transportation Science Division (BTSD), Oak Ridge National Laboratory, Aug 2026
 2. [2026 R&amp;D 100 Award Finalist](https://www.rdworldonline.com/rd-100-archive/?YEAR=2026) , "Eco-VTrac: A Real-Time Energy Optimization System for Vehicles and Traffic Signals" (Principal Investigator), R&D World, Aug 2026
 3. Supplemental Performance Award (FY2023, FY2024, and FY2025), Oak Ridge National Laboratory, Aug 2023 - Nov 2025
 4. Best Poster Award, 19th IEEE International Conference on Mobile Ad-Hoc and Smart Systems (IEEE MASS 2022), Oct 2022
