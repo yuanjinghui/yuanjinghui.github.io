@@ -12,6 +12,7 @@ Jinghui Yuan is an R&D Staff Member in the [Applied Research for Mobility System
 Dr. Yuan received his Ph.D. in Civil Engineering (Transportation) from the University of Central Florida, his M.Eng. in Transportation Planning and Management from Tongji University, and his B.Eng. in Civil Engineering from Central South University. He is an IEEE Senior Member and serves as an Associate Editor for the *IEEE Transactions on Intelligent Vehicles* and the *IEEE Open Journal of Intelligent Transportation Systems*.
 
 ## News
+- **October 2026:** Selected as one of two Energy Science and Technology Directorate (ESTD) nominees for the ORNL Laboratory Directed Research and Development (LDRD) **Early Career Competition**, advancing to the lab-wide final presentation to ORNL Leadership.
 - **September 2026:** Jinghui Yuan and collaborators were granted U.S. Patent No. 12,741,640, titled [**Energy-Efficient Vehicle and/or Traffic Light Control**](https://patents.google.com/patent/US20250131819A1/en).
 - **August 2026:** Received the **2026 BTSD Early Career Award** from the Buildings and Transportation Science Division at Oak Ridge National Laboratory.
 - **August 2026:** **Eco-VTrac: A Real-Time Energy Optimization System for Vehicles and Traffic Signals**, led as Principal Investigator, selected as a [2026 R&amp;D 100 Award](https://www.rdworldonline.com/rd-100-archive/?YEAR=2026) Finalist.
