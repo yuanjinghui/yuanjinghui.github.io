@@ -19,15 +19,15 @@ author_profile: true
    Aug 2026 - Present, *U.S. Department of Energy*
 4. **Co-Principal Investigator** - DASiC-NEXT: Assured Human-AI Collaboration for Resilient and Trustworthy Traffic Signal Operations ($1,000,000)<br>
    Aug 2026 - Present, *U.S. Department of Energy*
-5. **Senior Researcher** - Development of Standardized Test Procedures for Connected and Automated Vehicle Energy Consumption and Emissions ($3,750,000)<br>
+5. **Task Lead** - Development of Standardized Test Procedures for Connected and Automated Vehicle Energy Consumption and Emissions ($3,750,000)<br>
    Sep 2025 - Present, *U.S. Department of Energy*
-6. **Tech Lead** - Distributed Artificial-Intelligence (AI)-based Signal Control (DASiC) ($1,500,000)<br>
+6. **Task Lead** - Distributed Artificial-Intelligence (AI)-based Signal Control (DASiC) ($1,500,000)<br>
    Oct 2024 - Present, *U.S. Department of Energy*
 7. **ORNL Principal Investigator** - Towards Trustworthy Reinforcement Learning for Responsible Intelligent Transportation Systems ($200,000)<br>
    Sep 2024 - Present, *University of Tennessee-Oak Ridge Innovation Institute (UT-ORII)*
-8. **Tech Lead** - Real-Twin/Real-Sim Deployment: High-Fidelity 3D Digital Twin Scenario Library Generation for Energy-Efficient Mobility Systems ($4,500,000)<br>
+8. **Task Lead** - Real-Twin/Real-Sim Deployment: High-Fidelity 3D Digital Twin Scenario Library Generation for Energy-Efficient Mobility Systems ($4,500,000)<br>
    Jun 2024 - Present, *U.S. Department of Energy*
-9. **Senior Researcher** - Real-Twin (1.0 and 2.0): A Unified Scenario Generation Capability for Mobility Research ($4,000,000)<br>
+9. **Task Lead** - Real-Twin (1.0 and 2.0): A Unified Scenario Generation Capability for Mobility Research ($4,000,000)<br>
     Mar 2022 - Present, *U.S. Department of Energy*
 
 ### Completed projects
@@ -38,9 +38,9 @@ author_profile: true
    Sep 2022 - Sep 2024, *University of Tennessee-Oak Ridge Innovation Institute (UT-ORII)*
 3. **Co-Principal Investigator** - Characterizing and Evaluating Crash Avoidance and Driving Automation Technologies Through X-in-the-Loop Testing ($950,000)<br>
    Jan 2024 - Aug 2026, *National Highway Traffic Safety Administration (NHTSA)*
-4. **Senior Researcher** - Safety Impact of Camera Monitoring Systems as Replacement for Rear Vision Mirrors on Commercial Motor Vehicles ($700,000)<br>
+4. **Task Lead** - Safety Impact of Camera Monitoring Systems as Replacement for Rear Vision Mirrors on Commercial Motor Vehicles ($700,000)<br>
    May 2023 - Mar 2024, *U.S. Department of Transportation, Federal Motor Carrier Safety Administration*
-5. **Senior Researcher** - Applying Artificial Intelligence (AI) Based Signal Coordination and Controls for Optimized Mobility for the Nimitz Highway and Ala Moana Boulevard Arterial in Honolulu ($2,200,000)<br>
+5. **Task Lead** - Applying Artificial Intelligence (AI) Based Signal Coordination and Controls for Optimized Mobility for the Nimitz Highway and Ala Moana Boulevard Arterial in Honolulu ($2,200,000)<br>
    Aug 2021 - Sep 2024, *U.S. Department of Energy*
 
 ## University of Central Florida (UCF-SST)
