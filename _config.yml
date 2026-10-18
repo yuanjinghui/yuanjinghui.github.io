@@ -77,9 +77,9 @@ social:
     - "https://github.com/yuanjinghui"
 
 
-# Visitor counter and map (ClustrMaps) shown in the footer
-# Register the site at https://clustrmaps.com and paste the "d=" value from the widget code
-clustrmaps_id            :
+# Visitor counter and map (MapMyVisitors) shown in the footer
+# Register the site at https://mapmyvisitors.com and paste the "d=" value from the widget code
+mapmyvisitors_id         :
 
 # Analytics
 analytics:
