@@ -1,20 +1,20 @@
 ---
 permalink: /
 title: "Jinghui Yuan"
-excerpt: "Jinghui Yuan's academic homepage"
+excerpt: "Jinghui Yuan is an R&D Staff Member at Oak Ridge National Laboratory working on AI for intelligent transportation systems, connected and automated vehicles, traffic safety, and digital twins."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Jinghui Yuan is an R&D Staff Member in the [Applied Research for Mobility Systems](https://www.ornl.gov/group/applied-research-for-mobility-systems) Group at Oak Ridge National Laboratory (ORNL). His research focuses on intelligent transportation systems, artificial intelligence, vehicle safety, digital twins, and connected and automated vehicles (CAVs). He has authored and co-authored over 40 peer-reviewed publications in leading journals such as Transportation Research Part A, C, and F; Accident Analysis & Prevention; IEEE Transactions on Intelligent Transportation Systems; IEEE Transactions on Vehicular Technology; and IEEE Transactions on Intelligent Vehicles. His publications have collectively received more than 3,000 citations, with an h-index of 29.
+Jinghui Yuan is an R&D Staff Member in the [Applied Research for Mobility Systems](https://www.ornl.gov/group/applied-research-for-mobility-systems) Group at Oak Ridge National Laboratory (ORNL). His research focuses on intelligent transportation systems, artificial intelligence, vehicle safety, digital twins, and connected and automated vehicles (CAVs). He has authored and co-authored over 40 peer-reviewed publications in leading journals such as Transportation Research Part A, C, and F; Accident Analysis & Prevention; IEEE Transactions on Intelligent Transportation Systems; IEEE Transactions on Vehicular Technology; and IEEE Transactions on Intelligent Vehicles. His publications have collectively received more than 3,800 citations, with an h-index of 29.
 
 Dr. Yuan received his Ph.D. in Civil Engineering (Transportation) from the University of Central Florida, his M.Eng. in Transportation Planning and Management from Tongji University, and his B.Eng. in Civil Engineering from Central South University. He is an IEEE Senior Member and serves as an Associate Editor for the *IEEE Transactions on Intelligent Vehicles*, the *IEEE Internet of Things Journal*, and the *IEEE Open Journal of Intelligent Transportation Systems*.
 
 ## News
 - **October 2026:** Appointed Associate Editor of the *IEEE Internet of Things Journal*.
 - **October 2026:** Selected as one of two Energy Science and Technology Directorate (ESTD) nominees for the ORNL Laboratory Directed Research and Development (LDRD) **Early Career Competition**, advancing to the lab-wide final presentation to ORNL Leadership.
-- **September 2026:** Jinghui Yuan and collaborators were granted U.S. Patent No. 12,741,640, titled [**Energy-Efficient Vehicle and/or Traffic Light Control**](https://patents.google.com/patent/US20250131819A1/en).
+- **September 2026:** Granted U.S. Patent No. 12,741,640, [**Energy-Efficient Vehicle and/or Traffic Light Control**](https://patents.google.com/patent/US20250131819A1/en), with collaborators.
 - **August 2026:** Received the **2026 BTSD Early Career Award** from the Buildings and Transportation Science Division at Oak Ridge National Laboratory.
 - **August 2026:** **Eco-VTrac: A Real-Time Energy Optimization System for Vehicles and Traffic Signals**, led as Principal Investigator, selected as a [2026 R&amp;D 100 Award](https://www.rdworldonline.com/rd-100-archive/?YEAR=2026) Finalist.
 - **August 12, 2026:** Awarded four new U.S. Department of Energy projects, total funding $10.4M: **SAVED** ($4.5M, Principal Investigator), **Eco-Corridor** ($2.4M, Principal Investigator), **Multi-Agent AI System for Resilient and Energy Efficient Regional Transportation Operations** ($2.5M, Co-Principal Investigator), and **DASiC-NEXT** ($1.0M, Co-Principal Investigator).

@@ -10,6 +10,7 @@ author_profile: true
 ## Editorship
 
 - **Associate Editor**, IEEE Transactions on Intelligent Vehicles, 2026 - Present
+- **Associate Editor**, IEEE Internet of Things Journal, 2026 - Present
 - **Associate Editor**, IEEE Open Journal of Intelligent Transportation Systems, 2026 - Present
 - **Editorial Board Member**, Future Transportation, 2021 - Present
 - **Review Editor**, Frontiers in Future Transportation, 2021 - Present
