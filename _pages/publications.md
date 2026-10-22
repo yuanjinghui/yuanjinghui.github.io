@@ -19,7 +19,7 @@ My citation record and latest publication updates are available on [Google Schol
 ### 2026
 
 1. Luo, X., Xu, G., Saroj, A., **Yuan, J.**, Kadav, P., Shao, Y., and Wang, C. (2026). [Agentic Traffic Intelligence: Augmented Human-In-The-Loop Scenario Generation for Microscopic Traffic Simulation](https://doi.org/10.1016/j.ait.2026.100057). *Artificial Intelligence for Transportation*, 6, 100057.
-2. **Yuan, J.**\*, LaClair, T., Wang, C., Li, W., Lim, H., Kadav, P., Berres, A., Xu, H., Ekti, A., Wang, H., Sanyal, J., and Zhang, G. (2025). Integrated Traffic Signal and Vehicle Speed Control for Improving Energy Efficiency and Reducing Congestion. *Nature Communications*. **Conditionally accepted.**
+2. **Yuan, J.**, Li, W.\*, LaClair, T., Wang, C., Lim, H., Kadav, P., Berres, A., Xu, H., Ekti, A., Wang, H., Sanyal, J., and Zhang, G. (2025). Integrated Traffic Signal and Vehicle Speed Control for Improving Energy Efficiency and Reducing Congestion. *Nature Communications*. **Conditionally accepted.**
 
 ### 2025
 
